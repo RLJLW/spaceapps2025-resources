@@ -61,6 +61,10 @@ Things that your project could do (much of this is directly out of the challenge
  - Use input parameters such as asteroid, size and velocity
  - Explore what-if scenarios, e.g. how a small change in velocity alters the point of impact or large changes might mitigate the impact.
  - Map tsunami risks using USGS elevation data
+ - Use real-time data such as from the NEO database from NASA's API
+ - Possibly build a tool that is mobile compatible, or use augmented reality
+ - Possibly allow users to share similution results (for example impact maps) on social media
+ - Could create a "Defend Earth" mode where users test deflection strategies under time pressure
 
 Challenge URL:
 https://www.spaceappschallenge.org/2025/challenges/meteor-madness/
