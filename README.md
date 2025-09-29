@@ -1,8 +1,7 @@
 # Resources, Notes and Ideas
+# Notes about Challenges and Importance of Challenges
 
-## Notes about Challenges and Importance of Challenges
-
-### BloomWatch: An Earth Observation Application for Global Flowering Phenology
+## BloomWatch: An Earth Observation Application for Global Flowering Phenology
 
 #### Motivation and Importance
 Food production is incredibly important for the world, and for that so are pollinators such as bees which also depend on plant blooming.
@@ -18,7 +17,7 @@ Challenge URL:
 https://www.spaceappschallenge.org/2025/challenges/bloomwatch-an-earth-observation-application-for-global-flowering-phenology/
 
 
-### Meteor Madness
+## Meteor Madness
 
 #### Motivation and Importance
 
@@ -39,7 +38,7 @@ https://www.spaceappschallenge.org/2025/challenges/meteor-madness/
 ---
 
 
-### Through the Radar Looking Glass: Revealing Earth Processes with SAR
+## Through the Radar Looking Glass: Revealing Earth Processes with SAR
 
 #### Motivation and Importance
 
