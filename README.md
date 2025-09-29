@@ -87,7 +87,6 @@ https://www.spaceappschallenge.org/2025/challenges/through-the-radar-looking-gla
 ---
 
 
-
 <!--
 
 ### Template Challenge Name
@@ -97,15 +96,16 @@ https://www.spaceappschallenge.org/2025/challenges/through-the-radar-looking-gla
 #### Challenge Description:
 
 Challenge URL:
-
--->
-
 ---
 
+-->
 
 ## Other Resources
 
 NASA Space Apps Challenges:
+
 https://www.spaceappschallenge.org/2025/challenges/
 
+NASA Data API:
 
+https://api.nasa.gov/
