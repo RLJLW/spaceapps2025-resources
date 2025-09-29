@@ -23,7 +23,7 @@ Things that your project could do (much of this is directly out of the challenge
  - Monitoring plant blooming
  - Detect invasive species
  - Monitor the coverage of a landscape by different kinds of vegetation
- - Detect agricultural pests - This could have applications in food production to as pests could change the kind of bloom or vegetation that is present.
+ - Detect agricultural pests - This could have applications in food production to as pests could change the kind of bloom or vegetation that is present
  - Be useful in agricultural crop monitoring - Also useful for farming / food production 
  - Know when, where, and how extensively plants bloom
  - Make data available to better understand the relationship between pollinators, and the environment
