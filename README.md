@@ -34,7 +34,9 @@ Things that your project could do (much of this is directly out of the challenge
 
 #### Motivation and Importance
 
-Asteroids pose a significant risk, and currently there is no developed technology that is reliable for redirecting an incoming asteroid. Detection of harmful asteroids could be better developed as to take appropriate mitigation strategies and plan ahead there needs to be a significant time between detection and for example bringing deflector into a position where it could attempt to deflect an asteroid.
+Asteroids pose a significant risk, such as devestation of population centers, tsunamis, earthquakes, and potential serious atmospheric changes, such as dust blocking out sunlight and affecting food production.
+
+Currently there is no developed technology that is reliable for redirecting an incoming asteroid. Detection of harmful asteroids could be better developed as to take appropriate mitigation strategies and plan ahead there needs to be a significant time between detection and for example bringing deflector into a position where it could attempt to deflect an asteroid.
 
 ##### Dectection and Deflection Time Importance:
 The earlier a deflector hits an asteroid the more substantial the deflection, so deflection an asteroid months before impact is better than weeks or days before impact.
@@ -43,6 +45,22 @@ This means its important to detect the asteroid as early as possible and then mo
 #### Challenge Description:
 
 "Your challenge is to develop an interactive visualization and simulation tool that enables users to explore asteroid impact scenarios, predict consequences, and evaluate mitigation strategies using real NASA and USGS datasets. Can you create a web-based platform that integrates asteroid parameter data (e.g., size, velocity, trajectory) from NASA’s NEO API with USGS datasets pertaining to environmental and geological impacts (e.g., tsunami zones, seismic activity, topography), and transforms that raw data into a powerful educational and decision-support tool for global asteroid risk management?"
+
+Things that your project could do (much of this is directly out of the challenge description):
+ - Model asteroid impact scenarios and predict consequences
+ - Evaluate potential mitigation strategies
+ - Model an asteroids trajectory
+ - Calculate impact energy - Estimate impact kinetic energy with standard methods, E = 1/2 m v^2 for example.
+ - Estimate crater size
+ - Estimate Environmental effects - You can leverage NASA data (like USGS) to model secondary effects like Tsunamis, seizmic waves.
+ - Develop interactive visualization and simulation tools
+ - Transform raw data into powerful educational and decision making tools
+ - Display impact zone maps
+ - Animate Orbital paths, or trajectories
+ - Demystify / explain complex concepts
+ - Use input parameters such as asteroid, size and velocity
+ - Explore what-if scenarios, e.g. how a small change in velocity alters the point of impact or large changes might mitigate the impact.
+ - Map tsunami risks using USGS elevation data
 
 Challenge URL:
 https://www.spaceappschallenge.org/2025/challenges/meteor-madness/
