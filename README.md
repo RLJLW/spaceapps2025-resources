@@ -19,7 +19,17 @@ The same tools and data that could be used for analyze plant blooms, vegetation 
 Challenge URL:
 https://www.spaceappschallenge.org/2025/challenges/bloomwatch-an-earth-observation-application-for-global-flowering-phenology/
 
-
+Things that your project could do (much of this is directly out of the challenge description):
+ - Monitoring plant blooming
+ - Detect invasive species
+ - Monitor the coverage of a landscape by different kinds of vegetation
+ - Detect agricultural pests - This could have applications in food production to as pests could change the kind of bloom or vegetation that is present.
+ - Be useful in agricultural crop monitoring - Also useful for farming / food production 
+ - Know when, where, and how extensively plants bloom
+ - Make data available to better understand the relationship between pollinators, and the environment
+ - Use the following tools: EMIT, PACE, Landsat, MODIS, VIIRS
+ - In my view, the same technology or data could be adapted to many other applications
+  
 ## Meteor Madness
 
 #### Motivation and Importance
