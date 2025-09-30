@@ -175,6 +175,12 @@ Landsat 9 Data User's Handbook
 
 https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/LSDS-2082_L9-Data-Users-Handbook_v1.pdf
 
+## Sentinel Resources
 
+Sentinel-1 data
 
+https://www.earthdata.nasa.gov/data/platforms/space-based-platforms/sentinel-1 
+
+Sentinel-2 MSI data
+https://www.earthdata.nasa.gov/data/instruments/sentinel-2-msi
 
