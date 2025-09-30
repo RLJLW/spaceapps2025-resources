@@ -85,8 +85,7 @@ Because SAR data uses active remote sensing and the wavelengths it uses it can a
 
 "Your challenge is to peer through the looking glass… by analyzing radar remote sensing data from SAR instruments that employ different polarizations and frequencies to reveal information about physical drivers on Earth. As you climb through the mirror like Alice to a world turned upside down, you will discover that data in each frequency reveals a different clue. Oil spills are seen in one wavelength but not the others, forest canopies and understories are highlighted only in certain polarizations."
 
-You could look at:
- - A volcano that errupted recently, an interesting forest, a coastal area that has changed a lot, or even a farm land nearby you
+You could look at a volcano that errupted recently, an interesting forest, a coastal area that has changed a lot, or even a farm land nearby you.
 
 Notes from the Video (some is taken directly from the video):
 
