@@ -77,10 +77,31 @@ https://www.spaceappschallenge.org/2025/challenges/meteor-madness/
 
 #### Motivation and Importance
 
-SAR (Synthetic Apperture Radar) has numerous applications, including monitoring landscape coverage during disasters such as flooding, wildfire damage, types and thickness of vegetation, pollution (oil for example), water coverage.
+SAR (Synthetic Apperture Radar) has numerous applications, landscape coverage, soil moisture in agricultural fields, flooding, especially during disasters, wildfire damage, types and thickness of vegetation, pollution (oil for example), water coverage, ice sheet dynamics, volcanic erruptions, land motion, above ground biomass is forests, land subsidence from ground water pumping, landslides and others.
 
+Because SAR data uses active remote sensing and the wavelengths it uses it can acquire data day or night and even through cloud cover, making it especially valuabe during disasters.
+ 
 #### Challenge Description:
 
+"Your challenge is to peer through the looking glass… by analyzing radar remote sensing data from SAR instruments that employ different polarizations and frequencies to reveal information about physical drivers on Earth. As you climb through the mirror like Alice to a world turned upside down, you will discover that data in each frequency reveals a different clue. Oil spills are seen in one wavelength but not the others, forest canopies and understories are highlighted only in certain polarizations."
+
+You could look at:
+ - A volcano that errupted recently, an interesting forest, a coastal area that has changed a lot, or even a farm land nearby you
+
+Notes from the Video (some is taken directly from the video):
+
+Different polarizations can give you different information about the landscape
+So use different polorizations to better understand the landscape.
+Make hypothesis about what you can see or not see on the SAR images. Which polorizations highlight which types of landscape e.g. forest or water, and why.
+Does certain radar frequencies highlight different kinds of vegetation.
+Or if you can get multiple images of the same landscape could you detect how the forest is changing with time.
+Use any digital medium you would like to present your story.
+
+If you want to you can use additional data or information to provide more context e.g you could provide optical imagery to highlight features, or even provide personal context if you're familiar with the area, or anything that can add to your story and your explaination of SAR data.
+
+ - SAR is a form of active remote sensing, meaning it emits and receives it own sources of energy.
+ - SAR used energy in the microwave band of the electromagnetic spectrum.
+ 
 Challenge URL:
 https://www.spaceappschallenge.org/2025/challenges/through-the-radar-looking-glass-revealing-earth-processes-with-sar/
 
