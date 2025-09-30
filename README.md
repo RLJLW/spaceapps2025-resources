@@ -132,3 +132,49 @@ https://www.spaceappschallenge.org/2025/challenges/
 NASA Data API:
 
 https://api.nasa.gov/
+
+
+##Landsat Resources
+
+Landsat Benefits / Applications Summaries:
+
+https://landsat.gsfc.nasa.gov/benefits/
+
+Landsat Data Page:
+
+https://landsat.gsfc.nasa.gov/data/
+
+Landsat Data Resources - With brief explainations about each:
+
+<!-- (Worldview, Earthdata, NASA AppEEARS, USGS EarthExplorer, USGS GloVis, USGS Landsat Commercial Cloud Access,
+LP DAAC, Esri Landsat Explorer, Google Earth Engine) -->
+
+https://landsat.gsfc.nasa.gov/data/data-access/
+
+Landsat Mission Page:
+
+https://science.nasa.gov/mission/landsat/
+
+Other Landsat Resources
+
+https://landsat.gsfc.nasa.gov/
+
+https://www.usgs.gov/landsat-missions
+
+https://landsat.gsfc.nasa.gov/data/
+
+Google Developers Landsat Collections
+
+https://developers.google.com/earth-engine/datasets/catalog/landsat
+
+Handbooks
+
+https://landsat.gsfc.nasa.gov/data/handbooks-guides/
+
+Landsat 9 Data User's Handbook
+
+https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/LSDS-2082_L9-Data-Users-Handbook_v1.pdf
+
+
+
+
