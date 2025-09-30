@@ -89,17 +89,16 @@ You could look at a volcano that errupted recently, an interesting forest, a coa
 
 Notes from the Video (some is taken directly from the video):
 
-Different polarizations can give you different information about the landscape
-So use different polorizations to better understand the landscape.
+Different polarizations can give you different information about the landscape.
+Use different polorizations to better understand the landscape.
 Make hypothesis about what you can see or not see on the SAR images. Which polorizations highlight which types of landscape e.g. forest or water, and why.
-Does certain radar frequencies highlight different kinds of vegetation.
-Or if you can get multiple images of the same landscape could you detect how the forest is changing with time.
+Does certain radar frequencies highlight different kinds of vegetation?
+You could get multiple images of the same landscape could you detect how the forest is changing with time.
 Use any digital medium you would like to present your story.
-
 If you want to you can use additional data or information to provide more context e.g you could provide optical imagery to highlight features, or even provide personal context if you're familiar with the area, or anything that can add to your story and your explaination of SAR data.
 
- - SAR is a form of active remote sensing, meaning it emits and receives it own sources of energy.
- - SAR used energy in the microwave band of the electromagnetic spectrum.
+SAR is a form of active remote sensing, meaning it emits and receives it own sources of energy.
+SAR uses energy in the microwave band of the electromagnetic spectrum.
  
 Challenge URL:
 https://www.spaceappschallenge.org/2025/challenges/through-the-radar-looking-glass-revealing-earth-processes-with-sar/
