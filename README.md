@@ -1,6 +1,10 @@
 # Resources, Notes and Ideas
 # Notes about Challenges and Importance of Challenges
 
+If you are taking part in the Space Apps Challenge 2025, and want to discuss the NASA datasets, you might want to take part in the discussions here:
+https://github.com/RLJLW/spaceapps2025-resources/discussions
+
+
 ## BloomWatch: An Earth Observation Application for Global Flowering Phenology
 
 #### Motivation and Importance
