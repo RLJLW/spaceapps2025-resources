@@ -105,7 +105,9 @@ If you want to you can use additional data or information to provide more contex
 
 SAR is a form of active remote sensing, meaning it emits and receives it own sources of energy.
 SAR uses energy in the microwave band of the electromagnetic spectrum.
- 
+
+(Note I'm still focusing on creating more information about this project here)
+
 Challenge URL:
 https://www.spaceappschallenge.org/2025/challenges/through-the-radar-looking-glass-revealing-earth-processes-with-sar/
 
