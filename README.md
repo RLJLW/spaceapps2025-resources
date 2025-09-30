@@ -5,7 +5,7 @@ If you are taking part in the Space Apps Challenge 2025, and want to discuss the
 
 https://github.com/RLJLW/spaceapps2025-resources/discussions
 
-Below are the top projects I'm considering with my notes, and notes from the challenges as to why I think these challenges are interesting and important.
+Below are the top 3 projects I'm considering with why I think these challenges are interesting and important, also with information directly from the challenges pages and videos, and with my own notes added to better understand each project.
 
 ## BloomWatch: An Earth Observation Application for Global Flowering Phenology
 
