@@ -71,6 +71,26 @@ Things that your project could do (much of this is directly out of the challenge
 Challenge URL:
 https://www.spaceappschallenge.org/2025/challenges/meteor-madness/
 
+#### Potentially useful for this challenge - Some I've managed to use so far:
+
+Horizons System - Useful for getting 3D position and velocity vectors of objects
+
+https://ssd.jpl.nasa.gov/horizons/app.html#/
+
+Small Body Database Lookup - Get stats on an object:
+
+https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/
+
+Orbit Viewer - Note that you can add other bodies like some known comets or asteroids, you can also change the data, and change viewing angles etc.
+
+https://ssd.jpl.nasa.gov/tools/orbit_viewer.html
+
+NASA Eyes on the Solar System (Orbit Viewer) - get an idea of current planet locations and comets - good for comparisions to other data:
+
+https://eyes.nasa.gov/apps/solar-system/#/home
+
+
+
 
 ---
 
